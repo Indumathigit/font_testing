@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Rowdies:wght@300;400;700&family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import "tailwindcss";
+
+@theme{
+    --font-family-Rowdies: "Rowdies",cursive;
+    --font-family-Righteous: "Righteous",sans-serif;
+    --font-family-Saira:"Saira",sans-serif;
+}
